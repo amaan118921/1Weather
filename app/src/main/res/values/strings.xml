@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OneWeathr</string>
+    <string name="you_need_location_permissions_to_use_the_app">You need location permissions to use the app...</string>
+    <string name="give_permission">Give Permission</string>
+    <string name="search_by_city">search by city...</string>
+    <string name="wind">Wind</string>
+</resources>
